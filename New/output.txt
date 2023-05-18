@@ -1,0 +1,9 @@
+
+Main Function Start
+interger declaration
+a
+
+variable Declaration
+
+ Declaration
+syntax error
