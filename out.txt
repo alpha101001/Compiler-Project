@@ -1,0 +1,157 @@
+INCLUDE Header
+
+VARIABLE
+VARIABLE
+
+VARIABLE
+VARIABLE
+
+VARIABLE
+NUM
+.VARIABLE
+
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+NUM
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+NUM
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+VARIABLE
+ADDITION
+VARIABLE
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+VARIABLE
+AND Operator
+VARIABLE
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+VARIABLE
+OR Operator
+VARIABLE
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+VARIABLE
+EXPONENTIATION
+EXPONENTIATION
+VARIABLE
+Semicolon
+
+Integer Declaration
+VARIABLE
+ASSIGNMENT
+VARIABLE
+NOT Operator
+VARIABLE
+Semicolon
+
+Float Declaration
+VARIABLE
+ASSIGNMENT
+FLOAT Point Value
+Semicolon
+
+Character Declaration
+VARIABLE
+Semicolon
+
+
+
+
+Print Variable
+
+Print Variable
+
+Print Text String
+
+
+Conditional Statement if
+Check Equal
+Opening Bracket
+
+Closing Bracket
+
+Conditional Statement elif
+GREATER OR EQUAL
+Opening Bracket
+
+Closing Bracket
+
+Conditional Statement else
+Opening Bracket
+
+Closing Bracket
+
+
+Conditional Statement if
+Opening Parenthesis
+VARIABLE
+Check Inequality
+VARIABLE
+Closing Parenthesis
+Opening Bracket
+
+Closing Bracket
+
+
+VARIABLE
+Opening Parenthesis
+NUM
+Closing Parenthesis
+Semicolon
+
+VARIABLE
+Opening Parenthesis
+VARIABLE
+Closing Parenthesis
+Semicolon
+
+VARIABLE
+Opening Parenthesis
+VARIABLE
+Closing Parenthesis
+Semicolon
+
+Maximum Number check
+
+Minimum Number check
+
+
+
+Single Line Comment
+
+
+FOR Loop, Range and Increment
+Opening Bracket
+
+Closing Bracket
+
+
+Loop
+Opening Parenthesis
+VARIABLE
+Check Inequality
+VARIABLE
+Closing Parenthesis
+Opening Bracket
+
+Closing Bracket

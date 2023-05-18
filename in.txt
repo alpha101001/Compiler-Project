@@ -1,0 +1,43 @@
+import stdio.h
+
+
+int a = 1;
+int b = 2;
+int c = a + b;
+int e = a && b;
+int f = a || b;
+int g = a ^^ b;
+int h = a ~~ b;
+float i = 10.10;
+char d;
+
+
+
+print(c);
+print(i);
+print("text");
+
+if(a === b) {
+}
+elif(a >= b) {
+}
+else {
+}
+
+if(a != b) {
+}
+
+cosine(10);
+sine(b);
+tangent(c);
+max(2,4);
+min(3,5);
+
+
+@@ i=0;i<=10;i+=2
+
+for(i in [0, 10, 2] ) {
+}
+
+while(x != b) {
+}
